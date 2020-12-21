@@ -1,0 +1,4 @@
+https://django-smart-selects.readthedocs.io/en/latest/usage.html#chainedforeignkey-options  (this is used in this project)
+https://github.com/jazzband/django-smart-selects
+https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html#filtering-results-based-on-the-value-of-other-fields-in-the-form
+https://django-autocomplete-light.readthedocs.io/en/master/
